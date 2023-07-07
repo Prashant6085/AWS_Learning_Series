@@ -92,6 +92,7 @@ It's important to note that while the public cloud offers numerous advantages, e
 
 
 ####AWS#####
+
 AWS stands for Amazon Web Services, which is a comprehensive and widely used cloud computing platform provided by Amazon.com. It offers a broad range of cloud services, including computing power, storage, database services, networking, analytics, machine learning, and more. AWS provides organizations and individuals with a flexible, scalable, and cost-effective infrastructure for running their applications and services.
 Here are some key aspects of AWS:
 Computing Services: AWS offers Elastic Compute Cloud (EC2), which provides virtual servers that can be quickly provisioned and configured to meet specific requirements. EC2 instances are available in various configurations, allowing users to choose the desired amount of CPU, memory, storage, and networking capacity.
